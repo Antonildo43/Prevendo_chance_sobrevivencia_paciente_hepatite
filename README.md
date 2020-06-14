@@ -43,4 +43,6 @@ Fonte: https://www.saude.gov.br/saude-de-a-z/hepatite
 Os sintomas são indicadores importantes na avaliação de qualquer doença. As doenças hepáticas são uma das principais causas de morte em todo o mundo. Estabelecer métodos que auxilie médicos a realizar prognósticos mais precisos na avaliação de pacientes com hepatite ainda é um grande desafio.
 
 Esse conjunto de dados possui 155 linhas, 20 colunas e fornece vários atributos de pacientes que sofrem de hepatite, originalmente doado por G.Gong (Universidade Carnegie-Mellon) via Bojan Cestnik Jozef Stefan Institute em Ljubljana e data de novembro de 1988. Trata-se de um estudo observacional onde foram coletados dados sobre 19 características diferentes e uma classe extra (DIE ou LIVE), dentro de uma faixa etária de pacientes ente 7–78 anos.
+
 Fonte dos dados: https://archive.ics.uci.edu/ml/datasets/hepatitis
+
